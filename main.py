@@ -1,2 +1,2 @@
-x="buenos dias"
+x="me gusta la piña"
 print(x)
