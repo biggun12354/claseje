@@ -1,4 +1,4 @@
 
-x="me gusta nadar"
+x="voy a pescar"
 print(x)
 
