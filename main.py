@@ -1,4 +1,5 @@
 
-x="hola como estas"
+x="voy a pescar"
+
 print(x)
 
