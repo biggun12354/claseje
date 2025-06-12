@@ -1,2 +1,2 @@
-x="buenas tardes"
+x="me gusta nadar"
 print(x)
